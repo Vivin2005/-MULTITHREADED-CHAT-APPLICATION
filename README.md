@@ -159,6 +159,6 @@ IoT communication systems
 ➡️ Overall, this project fulfills the internship requirement by showcasing practical backend development skills, strong problem-solving, and the ability to design interactive systems that communicate over networks. 💬⚡🌐
 
 ** OUTPUT **
---> Server.java Connected:
+--> Server.java Connected Output Image:
 
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5751c38d-fa47-4dcb-9183-57813ecdde24" />
